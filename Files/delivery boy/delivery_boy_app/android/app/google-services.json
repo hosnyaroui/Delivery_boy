@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761582408966",
+    "project_id": "deliveryboyfacedetection",
+    "storage_bucket": "deliveryboyfacedetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761582408966:android:bc4130f4e11d7ad4ae3a87",
+        "android_client_info": {
+          "package_name": "com.example.delivery_boy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761582408966-39e97qa4maf24b5cj3nuu12udtgg8162.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPc0mLxgkKcjZJc9o47VMA9xmlZoe8Zgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761582408966-39e97qa4maf24b5cj3nuu12udtgg8162.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

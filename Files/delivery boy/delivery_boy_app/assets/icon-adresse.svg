@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="icon-adresse" transform="translate(-21 -155)">
+    <path id="Tracé_3351" data-name="Tracé 3351" d="M7,0H23a7,7,0,0,1,7,7V23a7,7,0,0,1-7,7H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(21 155)" fill="#ece7f8"/>
+    <g id="Icon_feather-map-pin" data-name="Icon feather-map-pin" transform="translate(30.447 162.729)">
+      <path id="Tracé_113" data-name="Tracé 113" d="M16.1,7.3c0,4.511-5.8,8.378-5.8,8.378S4.5,11.812,4.5,7.3a5.8,5.8,0,1,1,11.6,0Z" transform="translate(-4.5 -1.5)" fill="none" stroke="#6b4eae" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Tracé_114" data-name="Tracé 114" d="M17.367,12.433A1.933,1.933,0,1,1,15.433,10.5a1.933,1.933,0,0,1,1.933,1.933Z" transform="translate(-9.633 -6.633)" fill="none" stroke="#6b4eae" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

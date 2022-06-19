@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="55" height="55" rx="27.5" transform="translate(0.005 0.18)" fill="#99c0e1" opacity="0.486"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_de_masques_4" data-name="Groupe de masques 4" transform="translate(-0.005 -0.18)" clip-path="url(#clip-path)">
+    <text id="Profile" transform="translate(54.005 32.18)" fill="#444d5e" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" opacity="0"><tspan x="0" y="0">Profile</tspan></text>
+    <path id="icon-profil-off" d="M17.491,18.131c0-2.709-2.752-4.906-6.143-4.906H7.85c-3.392,0-6.143,2.2-6.143,4.906a.853.853,0,1,1-1.706,0c0-3.647,3.52-6.612,7.85-6.612h3.5c4.33,0,7.849,2.965,7.849,6.612a.853.853,0,1,1-1.706,0ZM4.479,5.119A5.119,5.119,0,1,1,9.6,10.239,5.107,5.107,0,0,1,4.479,5.119Zm1.707,0A3.413,3.413,0,1,0,9.6,1.706,3.423,3.423,0,0,0,6.186,5.119Z" transform="translate(19.124 17.292)" fill="#d4cdcd" stroke="#d4cdcd" stroke-width="0.5"/>
+  </g>
+</svg>

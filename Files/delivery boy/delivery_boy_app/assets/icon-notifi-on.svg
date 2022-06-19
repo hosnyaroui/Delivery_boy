@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="55" viewBox="0 0 54 55">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="54" height="55" rx="27" transform="translate(0.411 0.18)" fill="#ececec" opacity="0.486"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_de_masques_2" data-name="Groupe de masques 2" transform="translate(-0.411 -0.18)" clip-path="url(#clip-path)">
+    <text id="Search" transform="translate(54.411 32.18)" fill="#444d5e" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" opacity="0"><tspan x="0" y="0">Search</tspan></text>
+    <path id="icon-notifi-on" d="M14.205,23.75A2.057,2.057,0,0,0,16.256,21.7h-4.1A2.057,2.057,0,0,0,14.205,23.75ZM20.359,17.6V12.468c0-3.149-1.672-5.785-4.615-6.482v-.7a1.538,1.538,0,0,0-3.077,0v.7c-2.933.7-4.615,3.323-4.615,6.482V17.6L6,19.647v1.026H22.41V19.647Zm-2.051,1.026H10.1V12.468c0-2.544,1.549-4.615,4.1-4.615s4.1,2.072,4.1,4.615Z" transform="translate(13.206 13.43)" fill="#ffc524"/>
+  </g>
+</svg>

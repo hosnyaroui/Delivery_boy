@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.138" height="44.518" viewBox="0 0 38.138 44.518">
+  <defs>
+    <filter id="icon-adresse-map" x="0" y="0" width="38.138" height="44.518" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#dacaff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#icon-adresse-map)">
+    <path id="icon-adresse-map-2" data-name="icon-adresse-map" d="M8.586,25C1.344,14.5,0,13.427,0,9.569a9.569,9.569,0,0,1,19.138,0c0,3.858-1.344,4.936-8.586,15.434a1.2,1.2,0,0,1-1.967,0Zm.983-11.447A3.987,3.987,0,1,0,5.582,9.569,3.987,3.987,0,0,0,9.569,13.556Z" transform="translate(5.5 2.5)" fill="#6b4eae" stroke="#6b4eae" stroke-width="1"/>
+  </g>
+</svg>
